@@ -1,0 +1,9 @@
+Kapanmamış tırnak işaretlerinin bulunması. Çözümü: "" 2 tırnak işareti arasına doğru değerleri girilerek kodumuzun doğru çalışmasını sağlarız.
+
+Eksik hatalı etiketlerin kapanmaması. Çözümü: Her açtığımız ve yeni oluşturduğumuz etiketlerin doğru çalışması için mesela -- ! <html></html> !!-- şeklinde etiketimizi açtıktan sonra böyle kapatmamız gerekir.
+
+Çapraz ve kapatılmış hatalı etiketler. Çözümü: Aynı etiket içinde farklı farklı karışık birbirine girmiş kodlardır.Bunları sıralı ve düzenli bir biçimde kod dizilimi ve etiket oluşturduğumuzda daha rahat bir dizilim elde etmiş oluruz.
+
+Pek çok unutulan renk hatalarının olması. Çözümü: Renk hatalarını yanlış komut verdiğimizde ortaya çıkar komut sırasını ve seçiceğimiz etiketin doğru olması halinde hata çözümlenmiş olur.
+
+CSS dosyasına HTML linki bağlantısı yanlış yazılması ve kodların yansımaması. Çözümü: Hangi CSS dosyası açarsak ve ismini nasıl oluşturduysak aynı şekilde bunu HTML dosyamızdaki a link etiketimize doğru bir şekilde girersek hiçbir sorun olmadan aktarım gerçekleşmiş kodlarımız doğru çalışmış olur.
